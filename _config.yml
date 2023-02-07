@@ -4,7 +4,7 @@ SEOTitle: Key的博客 | BY coderKey
 header-img: img/post-bg-desk.jpg
 email: coderkey@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, Key的博客, xiehui, 谢辉, QT, C++, Linux"
 url: "http://coderkeyxie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/coderkeyxie.github.io.git" # you code repository
@@ -91,7 +91,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#ffffff"
 service-worker: true
 
 
