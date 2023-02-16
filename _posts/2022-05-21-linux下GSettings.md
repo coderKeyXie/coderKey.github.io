@@ -4,7 +4,7 @@ title:      GSettings
 subtitle:   Linux下GSettings使用
 date:       2022-05-21
 author:     Key
-header-img: img/post-bg-cook.jpg
+header-img: img/post-gnome.jpg
 catalog: true
 tags:
     - Linux
